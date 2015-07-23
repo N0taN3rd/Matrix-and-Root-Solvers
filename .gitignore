@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+#Extra stuff
+*.txt
+*.csv
+*.dep
+*.xlsx
